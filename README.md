@@ -2,20 +2,11 @@ Introduction
 =======
 Content here.
 
-Introduction
+Body
 =======
 Content here.
 
 
-Introduction
-=======
-Content here.
-
-
-Introduction
-=======
-Content here.
-
-Introduction
+Conclusion
 =======
 Content here.
