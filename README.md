@@ -4,7 +4,7 @@ Content here.
 
 Body
 =======
-este esuna prueba desde el git local.
+The content was added. Now the issue #1 is reseolved.
 
 
 Conclusion
